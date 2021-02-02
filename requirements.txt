@@ -3,7 +3,7 @@ backports-abc==0.5
 backports.shutil-get-terminal-size==1.0.0
 bbp-client==0.4.4
 bbp-services==0.0.15
-bleach==1.4.3
+bleach==3.3.0
 BluePyEfe==0.1.1.dev0
 BluePyExtract==0.1.dev0
 bluepyopt==1.5.31
