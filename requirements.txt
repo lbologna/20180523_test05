@@ -69,7 +69,7 @@ python-dateutil==2.5.3
 python-openid==2.2.5
 python-social-auth==0.2.21
 pytz==2016.7
-PyYAML==3.10
+PyYAML==5.4
 pyzmq==16.0.2
 quantities==0+unknown
 requests==2.18.4
