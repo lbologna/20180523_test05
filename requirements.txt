@@ -74,7 +74,7 @@ pyzmq==16.0.2
 quantities==0+unknown
 requests==2.18.4
 requests-oauthlib==0.7.0
-rsa==3.4.2
+rsa==4.7
 scandir==1.5
 scoop==0.7.1.1
 sh==1.12.14
